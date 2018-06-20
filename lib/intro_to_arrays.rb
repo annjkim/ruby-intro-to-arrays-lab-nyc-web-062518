@@ -6,14 +6,14 @@ def array_with_two_elements
   new_array = [1, 2]
 end
 
-def first_element(new_array)
-  new_array = [0]
+def first_element(arr)
+  arr = [0]
 end
 
-def third_element(new_array)
-  new_array = [2]
+def third_element(arr)
+  arr = [2]
 end
 
-def last_element(new_array)
-  new_array = [-1]
+def last_element(arr)
+  arr = [-1]
 end
